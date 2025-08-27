@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap');
     :root{
         --branco:white;
-        --cor-de-fundo:#000000;
+        --cor-de-fundo:#434ff6;
         --fundo-senha:#078585;
-        --fundo-texto:#007497;
+        --fundo-texto:#000000;
         --borda:#005ebc;
         --fonte-principal:'Bitcount Prop Single'
     }
